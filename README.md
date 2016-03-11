@@ -7,4 +7,5 @@ _**But I found a problem.**_ App language was automatically selected based on Re
 To overcome this problem we edited **App.xaml.cs** InitializePhoneApplication() function. Whenever initialized, the language will be hindi. User can change this from Application bar.
 
 ![screenshot]({{site.baseurl}}//_screenshot.png)
+
 So enjoy this simple, yet useful sample file & create some great apps. :)
